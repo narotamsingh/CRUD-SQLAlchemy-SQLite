@@ -11,6 +11,6 @@ CRUD Operations with SQLAlchemy on an SQLite database
 * First you need database_setup.py to create empty SQLite database, can be downloaded [here](https://www.udacity.com/api/nodes/3612388731/supplemental_media/database-setuppy/download) 
 OR
 You can use `restaurantmenu.db` file.
-* [Download this repositorie](https://github.com/narotamsingh/CRUD-SQLAlchemy-SQLite.git).
+* Then [Download this repositorie](https://github.com/narotamsingh/CRUD-SQLAlchemy-SQLite.git).
 * Run application:
   * `$ python crud.py`
